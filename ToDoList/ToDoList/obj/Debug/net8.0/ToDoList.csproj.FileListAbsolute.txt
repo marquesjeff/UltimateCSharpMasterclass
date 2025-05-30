@@ -1,0 +1,15 @@
+/home/jeffersonmarques/GitHub/UltimateCSharpMasterclass/ToDoList/ToDoList/bin/Debug/net8.0/ToDoList
+/home/jeffersonmarques/GitHub/UltimateCSharpMasterclass/ToDoList/ToDoList/bin/Debug/net8.0/ToDoList.deps.json
+/home/jeffersonmarques/GitHub/UltimateCSharpMasterclass/ToDoList/ToDoList/bin/Debug/net8.0/ToDoList.runtimeconfig.json
+/home/jeffersonmarques/GitHub/UltimateCSharpMasterclass/ToDoList/ToDoList/bin/Debug/net8.0/ToDoList.dll
+/home/jeffersonmarques/GitHub/UltimateCSharpMasterclass/ToDoList/ToDoList/bin/Debug/net8.0/ToDoList.pdb
+/home/jeffersonmarques/GitHub/UltimateCSharpMasterclass/ToDoList/ToDoList/obj/Debug/net8.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeffersonmarques/GitHub/UltimateCSharpMasterclass/ToDoList/ToDoList/obj/Debug/net8.0/ToDoList.AssemblyInfoInputs.cache
+/home/jeffersonmarques/GitHub/UltimateCSharpMasterclass/ToDoList/ToDoList/obj/Debug/net8.0/ToDoList.AssemblyInfo.cs
+/home/jeffersonmarques/GitHub/UltimateCSharpMasterclass/ToDoList/ToDoList/obj/Debug/net8.0/ToDoList.csproj.CoreCompileInputs.cache
+/home/jeffersonmarques/GitHub/UltimateCSharpMasterclass/ToDoList/ToDoList/obj/Debug/net8.0/ToDoList.sourcelink.json
+/home/jeffersonmarques/GitHub/UltimateCSharpMasterclass/ToDoList/ToDoList/obj/Debug/net8.0/ToDoList.dll
+/home/jeffersonmarques/GitHub/UltimateCSharpMasterclass/ToDoList/ToDoList/obj/Debug/net8.0/refint/ToDoList.dll
+/home/jeffersonmarques/GitHub/UltimateCSharpMasterclass/ToDoList/ToDoList/obj/Debug/net8.0/ToDoList.pdb
+/home/jeffersonmarques/GitHub/UltimateCSharpMasterclass/ToDoList/ToDoList/obj/Debug/net8.0/ToDoList.genruntimeconfig.cache
+/home/jeffersonmarques/GitHub/UltimateCSharpMasterclass/ToDoList/ToDoList/obj/Debug/net8.0/ref/ToDoList.dll
